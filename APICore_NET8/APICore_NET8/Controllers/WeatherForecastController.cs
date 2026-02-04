@@ -8,7 +8,7 @@ namespace APICore_NET8.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-         "Gà", "Heo", "Bò", "vịt"
+         "Gà", "Heo", "Bò", "Vịt cạp cạp"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
